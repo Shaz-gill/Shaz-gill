@@ -6,4 +6,4 @@ Full Stack Software Engineer with 5+ years of experience building secure SaaS ap
 
 **Stack:** React, TypeScript, JavaScript (ES6+), Node.js/Express.js, Python/Django, PHP (Laravel, CodeIgniter), MongoDB, MySQL, Docker, GitHub Actions
 
-**Contact:** shahzad.tariq92@gmail.com | [LinkedIn](https://linkedin.com) | Perth, WA, Australia
+**Contact:** shahzad.tariq92@gmail.com | [LinkedIn]([https://linkedin.com](https://www.linkedin.com/in/shahzadtariq-software-developer/)) | Perth, WA, Australia
