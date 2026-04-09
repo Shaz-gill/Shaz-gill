@@ -1,88 +1,67 @@
-# Shahzad Tariq
+# Hi, I'm Shahzad Tariq 👋
 
-**Full Stack Software Engineer | AI Integration | Cloud-Native Development**
+Full Stack Software Engineer | React, TypeScript, Node.js, Laravel | AI & Cloud Enthusiast  
 
-Perth, WA, Australia
-
----
-
-## About Me
-
-Full Stack Software Engineer with 5+ years of experience delivering secure, production-grade SaaS applications across healthcare, government, and mining sectors. I specialise in building responsive frontends with React and TypeScript, robust backends with Node.js, Django, and Laravel, and cloud-native deployments on Azure and AWS. I have a growing focus on AI integration using OpenAI and Anthropic APIs, and I'm actively seeking challenging full stack or AI-focused roles.
+Perth, WA | [LinkedIn](YOUR_LINKEDIN_URL) | [GitHub](YOUR_GITHUB_URL) | shahzad.tariq92@gmail.com
 
 ---
 
-## Technical Skills
+## 🔹 About Me
+I am a Full Stack Software Engineer with 5+ years of experience delivering **secure, production-grade SaaS applications** across healthcare, government, and mining sectors.  
+I specialise in **React/TypeScript frontends, Node.js/Django/Laravel backends**, and **cloud-native deployments** on Azure and AWS.  
 
-**Frontend:** React.js, TypeScript, JavaScript (ES6+), Tailwind CSS, HTML5/CSS3, Zustand, React Query
+I also have growing expertise in **AI integration** using OpenAI and Anthropic APIs.  
 
-**Backend:** Node.js/Express, Python/Django, PHP (Laravel, CodeIgniter), RESTful API Design
-
-**Databases:** MongoDB, MySQL, SQL Server
-
-**Cloud and DevOps:** AWS (Lambda, EC2, S3), Azure (App Services, Functions), Docker, GitHub Actions, CI/CD
-
-**AI and LLMs:** OpenAI API, Anthropic API, Ollama, Hugging Face, Prompt Engineering
-
-**Auth and Security:** JWT, RBAC, Secure API Key Management
-
-**Testing:** Jest, PHPUnit, Postman, Test-Driven Development
-
-**Tools:** Git, Jira, Confluence, Bitbucket, Agile/Scrum
+**Certifications:**  
+- Azure Developer Associate (AZ-204) — Sep 2025  
+- Azure Fundamentals (AZ-900) — Jun 2025  
+- AWS Cloud Practitioner (CLF-C02) — Dec 2024  
 
 ---
 
-## Certifications
+## 🛠 Tech Stack
 
-- Azure Developer Associate (AZ-204)
-- Azure Fundamentals (AZ-900)
-- AWS Cloud Practitioner (CLF-C02)
-
----
-
-## Professional Experience
-
-**Software Engineer (Solutions Consultant)** — OneStep Group, Perth, WA (Nov 2023 - Dec 2025)
-
-Contributed to the development of multiple healthcare SaaS platforms including CareFriends, a King's Award-winning employee referral platform serving 10,000+ active users across the UK and Australia. Built AI-powered features using OpenAI, Anthropic, and Grok APIs. Architected RESTful APIs, developed responsive frontends with React and TypeScript, and optimised database query performance by up to 40%. Deployed containerised applications with Docker on Azure and AWS, and designed CI/CD pipelines using GitHub Actions and Bitbucket Pipelines.
-
-**Software Engineer** — Cell-media, Perth, WA (Sep 2022 - Sep 2023)
-
-Developed scalable eLearning platforms for mining-industry clients using PHP, React, TypeScript, MySQL, and SQL Server. Implemented comprehensive testing strategies with TDD practices, reducing post-release defects. Delivered features within Agile workflows and participated in client-facing requirements gathering and feature demos.
-
-**Full Stack Web Developer** — Phoenix Developers and Designers, Sargodha, Pakistan (Mar 2017 - May 2019)
-
-Built and shipped responsive web applications using React, Express.js, Python, and JavaScript. Designed and optimised database layers across MongoDB, MySQL, and SQL Server. Led peer code reviews and championed best practices across the team.
+**Frontend:** React.js, TypeScript, JavaScript, Tailwind CSS, HTML5/CSS3, Zustand, React Query  
+**Backend:** Node.js/Express, Python/Django, PHP (Laravel, CodeIgniter), RESTful API Design  
+**Databases:** MongoDB, MySQL, SQL Server  
+**Cloud & DevOps:** AWS (Lambda, EC2, S3), Azure (App Services, Functions), Docker, GitHub Actions, CI/CD  
+**AI & LLMs:** OpenAI API, Anthropic API, Ollama, Hugging Face, Prompt Engineering  
+**Auth & Security:** JWT, RBAC, Secure API Key Management  
+**Testing:** Jest, PHPUnit, Postman, TDD  
+**Tools:** Git, Jira, Confluence, Bitbucket, Agile/Scrum  
 
 ---
 
-## Selected Projects
+## 💻 Selected Projects
 
-### GameVerse — Game Discovery App
-Responsive application built with React and TypeScript, integrating external APIs with infinite-scroll pagination and optimised state management using React Query and Zustand.
+### [GameVerse](YOUR_PROJECT_LINK) — Game Discovery App
+Responsive React/TypeScript app with **infinite-scroll pagination**, integrating external APIs and optimised state management using **React Query** and **Zustand**.  
 
-### WonderWorld AI Chatbot — Full Stack AI Assistant
-Production-ready chatbot built with React and Node.js/Express, featuring secure RESTful API endpoints and environment-based configuration management.
+### [WonderWorld AI Chatbot](YOUR_PROJECT_LINK)
+Production-ready full stack AI assistant built with React and Node.js/Express, featuring **secure RESTful APIs** and environment-based configuration.  
 
-### AI Reviews Summariser — Full Stack AI Application
-Full stack application using React, Node.js/Express, MySQL, and Prisma ORM that processes and summarises large volumes of user data into concise, actionable insights.
-
----
-
-## Education
-
-**Master of Information Technology** (Specialisation: Cyber Security and Networking)
-Murdoch University, Perth, WA — Graduated June 2022
+### [AI Reviews Summariser](YOUR_PROJECT_LINK)
+Full stack application using React, Node.js/Express, MySQL, and Prisma ORM to process and summarise large volumes of data into actionable insights.  
 
 ---
 
-## Get In Touch
-
-- **Email:** shahzad.tariq92@gmail.com
-- **Location:** Perth, WA 6000
-- **LinkedIn:** [Connect with me](https://linkedin.com)
-- **GitHub:** You are here
+## 🌟 Highlights
+- Developed **AI-powered features** for healthcare dashboards using OpenAI and Anthropic APIs  
+- Architected **RESTful APIs** with Node.js, Django, and Laravel for secure, scalable integrations  
+- Implemented **JWT & RBAC authentication** and ensured zero critical security incidents  
+- Designed **CI/CD pipelines** with GitHub Actions & Bitbucket Pipelines  
+- Containerised apps with **Docker** and deployed to Azure & AWS  
 
 ---
 
-*Open to remote, hybrid, and international opportunities.*
+## 📫 Contact Me
+- Email: shahzad.tariq92@gmail.com  
+- Phone: 0434 567 617  
+- Location: Perth, WA, Australia  
+- [LinkedIn](YOUR_LINKEDIN_URL) | [GitHub](YOUR_GITHUB_URL)
+
+---
+
+## ⚡ Fun Fact
+- Lifelong learner, exploring AI, cloud solutions, and scalable full-stack architectures.  
+- Always experimenting with **new technologies** to build smarter, faster, and more secure applications.
