@@ -1,11 +1,12 @@
 # 👋 Hey, I'm Shahzad Tariq
 
-### Full Stack Engineer · Solutions Consultant · AI Integrations · Perth, WA
+### Full Stack Engineer · AI Integrations · Solutions Consultant · Perth, WA (Remote)
 
 I build production-grade software that actually gets used — across healthcare, aged care,
 utilities, and enterprise SaaS. With 5+ years of commercial experience, I've worked embedded
-with enterprise clients, shipped AI-powered features into live platforms, and delivered
-end-to-end solutions from requirement gathering through to production deployment.
+with enterprise clients and shipped AI-powered features — LangChain pipelines, function/tool
+calling, and agentic workflows — into live platforms, delivering end-to-end solutions from
+requirement gathering through to production deployment.
 
 ---
 
@@ -15,9 +16,9 @@ end-to-end solutions from requirement gathering through to production deployment
 |---|---|
 | **Frontend** | React.js · Next.js · Vue.js · TypeScript · Tailwind CSS |
 | **Backend** | Python/Django · Node.js · PHP/Laravel · C#/.NET |
-| **Cloud** | AWS (Lambda, EC2, S3) · Azure (Functions, Service Bus, Key Vault) |
+| **Cloud** | AWS (Lambda · ECS/Fargate · S3 · API Gateway · EventBridge · Secrets Manager) · Azure (Functions · Service Bus · Key Vault) |
+| **AI** | OpenAI API · Anthropic API · Claude Code · LangChain · Function/Tool Calling · Agentic Workflows · RAG · Prompt Engineering |
 | **Databases** | PostgreSQL · MySQL · MongoDB · Redis · SQL Server |
-| **AI** | OpenAI API · Anthropic API · Claude Code · Prompt Engineering |
 | **Platform** | Power Apps · Power Automate · Power BI · Dataverse · SharePoint |
 | **DevOps** | Docker · GitHub Actions · CI/CD · Linux |
 
@@ -34,9 +35,9 @@ end-to-end solutions from requirement gathering through to production deployment
 ## 💡 What I'm About
 
 - 🔧 Building clean, maintainable software that solves real operational problems
-- 🤖 Integrating AI meaningfully into production platforms — not just as a novelty
+- 🤖 Integrating AI meaningfully into production — LangChain, function/tool calling, and agentic workflows, not just novelty
 - 🤝 Working directly with clients and non-technical teams to ship things that matter
-- 📈 Continuously learning — currently deepening expertise in AI implementation and cloud-native architecture
+- 📈 Continuously learning — currently deepening expertise in AI implementation and cloud-native architecture on AWS
 
 ---
 
