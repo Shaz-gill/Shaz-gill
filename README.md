@@ -1,6 +1,6 @@
 # 👋 Hey, I'm Shahzad Tariq
 
-### Full Stack Engineer · AI Integrations · Solutions Consultant · Perth, WA (Remote)
+### Full Stack Engineer · AI Integrations · Solutions Consultant · Perth, WA
 
 I build production-grade software that actually gets used — across healthcare, aged care,
 utilities, and enterprise SaaS. With 5+ years of commercial experience, I've worked embedded
